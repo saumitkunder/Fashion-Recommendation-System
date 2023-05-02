@@ -1,5 +1,6 @@
 streamlit
 scikit-learn
-TensorFlow
+tensorflow
 PIL
+keras
 os
