@@ -1,6 +1,1 @@
-streamlit
-scikit-learn
-tensorflow
-PIL
-keras
-os
+
