@@ -1,3 +1,4 @@
 streamlit
 scikit-learn
 tensorflow==2.10.0
+protonbuf==3.10.0
